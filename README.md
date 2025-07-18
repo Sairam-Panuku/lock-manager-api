@@ -1,4 +1,4 @@
-# 🔐 Lock Manager API
+# Lock Manager API
 
 A simple Flask-based REST API to manage resource locks with expiration and filtering.
 
